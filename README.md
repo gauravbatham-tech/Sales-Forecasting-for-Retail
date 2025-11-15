@@ -61,7 +61,7 @@ Visualized actual vs. predicted sales for each model.
 Created a combined dashboard comparing forecasts from all models.
 
 Displayed how ARIMA, Prophet, and LSTM predictions differ over the same time period.
-
+Dataset: Walmart Sales Forecasting Dataset (Kaggle)
 📊 Results
 Model	MAE (↓)	RMSE (↓)	Key Insight
 ARIMA	~Moderate	~Moderate	Good for linear trends
