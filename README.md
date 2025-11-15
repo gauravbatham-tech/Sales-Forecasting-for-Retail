@@ -60,6 +60,8 @@ Visualized actual vs. predicted sales for each model.
 
 Created a combined dashboard comparing forecasts from all models.
 
+DATASET: https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data
+
 Displayed how ARIMA, Prophet, and LSTM predictions differ over the same time period.
 Dataset: Walmart Sales Forecasting Dataset (Kaggle)
 📊 Results
